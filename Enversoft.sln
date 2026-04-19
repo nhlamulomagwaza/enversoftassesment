@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnversoftMiniProject", "EnversoftMiniProject\EnversoftMiniProject.csproj", "{45807EFF-7DBD-6E3A-10E7-AC3A1C2C7EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnversoftMiniProject.Application", "EnversoftMiniProject.Application\EnversoftMiniProject.Application.csproj", "{B93A2B16-C3E0-DE9A-A517-A3402CA92087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45807EFF-7DBD-6E3A-10E7-AC3A1C2C7EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45807EFF-7DBD-6E3A-10E7-AC3A1C2C7EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45807EFF-7DBD-6E3A-10E7-AC3A1C2C7EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45807EFF-7DBD-6E3A-10E7-AC3A1C2C7EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93A2B16-C3E0-DE9A-A517-A3402CA92087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93A2B16-C3E0-DE9A-A517-A3402CA92087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93A2B16-C3E0-DE9A-A517-A3402CA92087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93A2B16-C3E0-DE9A-A517-A3402CA92087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B266C6B9-F049-4FA9-B365-0C8BE6D4D778}
+	EndGlobalSection
+EndGlobal

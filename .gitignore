@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+bin/
+obj/
+# Build artifacts
+dist/
+.vs/
+.vscode/
+
+
+*.user
+*.suo
+.DS_Store
